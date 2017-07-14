@@ -20,6 +20,7 @@ display: block;
 p {
   min-width: 200px;
   min-height: 200px;
+  color: #61FFA9;
 }
 
 #banner {
@@ -61,7 +62,7 @@ p {
   font-size: 1rem;
   text-align: center;
   line-height: 1.8;
-  color: #444444;
+  color: #FFFFFF;
 }
 
 .post h2 {
@@ -71,7 +72,7 @@ p {
 
 .post h3 {
   font-size: 2.125rem;
-  color: #999999;
+  color: #FFFFFF;
 }
 
 .post .opening-line {
