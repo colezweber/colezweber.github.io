@@ -36,7 +36,7 @@ p {
 
 #banner h1 {
   font-size: 3.75rem;
-  font-family: 'Cinzel', sans-serif;
+  font-family: 'Press Start 2P', sans-serif;
   font-weight: 400;
   color: white;
 }
@@ -77,7 +77,7 @@ p {
 .post .opening-line {
   margin-top: 4.1875rem;
   margin-bottom: 1.5rem;
-  color: black;
+  color: white;
   font-weight: bold;
 }
 
