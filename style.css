@@ -56,7 +56,7 @@ p {
   display: flex;
   flex-direction: column;
   align-items: center;
-  font-family: 'Merriweather', serif;
+  font-family: sans-serif, serif;
   font-weight: 300;
   font-size: 1rem;
   text-align: center;
